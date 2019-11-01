@@ -11,8 +11,6 @@ def formula_of_happiness(uspex, zhelaniye):
     else:
         happiness = uspex/zhelaniye
         return happiness
-    # еще можно добавить коэффициент в начале - зависимость от нормы
-    # norma * uspex/zhelaniye
 
 
 print()
